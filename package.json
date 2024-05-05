@@ -1,13 +1,12 @@
 {
-  "name": "webscarap",
+  "name": "web-scraping",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1>Amazon Web Scraper</h1>\r This is a simple web scraping script using Puppeteer to extract information from Amazon India search results.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
